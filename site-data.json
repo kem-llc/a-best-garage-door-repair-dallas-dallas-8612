@@ -2,321 +2,321 @@
   "business": {
     "name": "A Best Garage Door Repair Dallas",
     "shortName": "A Best Garage Door",
-    "tagline": "Your Trusted Partner for Garage Door Excellence in Dallas",
+    "tagline": "Trusted Garage Door Repair in Dallas Since 2005",
     "niche": "Garage Door Repair",
     "phone": "(469) 632-8612",
     "address": "3932 S Polk St, Dallas, TX 75224",
     "city": "Dallas, TX",
-    "hours": "Mon–Sat 7 AM – 9 PM, Sun 8 AM – 6 PM",
-    "ctaLabel": "Get a Free Estimate",
+    "hours": "Mon-Sat: 7am-8pm, Sun: 8am-6pm",
+    "ctaLabel": "Schedule Service",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "A Best Garage Door Repair Dallas | Expert Service & Installation",
-    "description": "A Best Garage Door Repair Dallas offers fast, reliable garage door repair, installation, and maintenance in Dallas, TX. 4.7★ rated. Call (469) 632-8612 for same-day service."
+    "title": "A Best Garage Door Repair Dallas | Expert Garage Door Service",
+    "description": "A Best Garage Door Repair Dallas offers fast, reliable garage door repair, installation, and maintenance in Dallas, TX. Call (469) 632-8612 for same-day service!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Garage Door Service",
-      "headline": "Expert Garage Door Repair You Can Count On",
-      "subheadline": "Fast, affordable, and professional service to keep your garage door operating smoothly and safely.",
-      "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "Call Now"
+      "eyebrow": "24/7 Emergency Service Available",
+      "headline": "Expert Garage Door Repair in Dallas",
+      "subheadline": "Fast, affordable, and professional garage door solutions for homeowners and businesses in Dallas, TX.",
+      "primaryCta": "Call (469) 632-8612",
+      "secondaryCta": "Get a Free Quote"
     },
     "stats": [
       {
-        "value": "4.7",
-        "label": "Average Rating"
-      },
-      {
-        "value": "500+",
-        "label": "Repairs Completed"
-      },
-      {
-        "value": "15+",
+        "value": "20+",
         "label": "Years Experience"
       },
       {
-        "value": "Same-Day",
-        "label": "Service Available"
+        "value": "5,000+",
+        "label": "Repairs Completed"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "99%",
+        "label": "Satisfaction Rate"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality Repairs",
-        "title": "Comprehensive Garage Door Repair Services",
-        "body": "From broken springs to off-track doors, our skilled technicians diagnose and fix issues quickly. We use premium parts and offer transparent pricing with no hidden fees.",
+        "eyebrow": "Why Choose Us",
+        "title": "Reliable, Fast, and Affordable Garage Door Service",
+        "body": "We understand the inconvenience of a broken garage door. That's why we offer prompt, professional service to get your door working safely again. Our technicians are trained, insured, and equipped with the right tools for any repair.",
         "bullets": [
-          "Broken spring replacement",
-          "Cable and roller repair",
-          "Opener troubleshooting & replacement",
-          "Track alignment and panel replacement"
+          "Same-day service available",
+          "Transparent pricing with no hidden fees",
+          "All major brands repaired",
+          "Warranty on parts and labor"
         ],
         "reverse": false,
-        "cardLabel": "Fast Response",
-        "cardTitle": "Same-Day Service",
-        "cardBody": "We understand garage door emergencies. Call us by 2 PM for same-day repair in most Dallas areas."
+        "cardLabel": "Service Guarantee",
+        "cardTitle": "100% Satisfaction Guaranteed",
+        "cardBody": "We stand behind our work. If you're not happy, we'll make it right."
       },
       {
-        "eyebrow": "Premium Installation",
-        "title": "New Garage Door Installation & Upgrades",
-        "body": "Enhance your home's curb appeal and security with a new garage door from top brands. Our team handles everything from measurement to final adjustment.",
+        "eyebrow": "Our Expertise",
+        "title": "Comprehensive Garage Door Solutions",
+        "body": "From broken springs and cables to faulty openers and off-track doors, we handle it all. Our team has the expertise to diagnose issues quickly and provide lasting repairs.",
         "bullets": [
-          "Custom door selection (steel, wood, aluminum)",
-          "Professional installation with warranty",
-          "Smart opener integration",
-          "Insulation and weather sealing options"
+          "Spring replacement & repair",
+          "Opener installation & repair",
+          "Cable & pulley repair",
+          "Panel & section replacement"
         ],
         "reverse": true,
-        "cardLabel": "Free Consultation",
-        "cardTitle": "Design Your Door",
-        "cardBody": "Schedule a no-obligation consultation to explore styles, colors, and features that match your home."
+        "cardLabel": "Emergency Service",
+        "cardTitle": "24/7 Emergency Repairs",
+        "cardBody": "Garage door emergencies don't wait. Call us anytime for immediate assistance."
       }
     ],
-    "whyTitle": "Why Choose A Best Garage Door Repair Dallas?",
+    "whyTitle": "Why Dallas Homeowners Trust Us",
     "whyChooseUs": [
       {
-        "title": "Licensed & Insured",
-        "description": "Fully licensed and insured for your peace of mind. We meet all local requirements and safety standards."
-      },
-      {
-        "title": "Transparent Pricing",
-        "description": "Upfront quotes with no hidden fees. We explain the work before starting and get your approval."
-      },
-      {
         "title": "Experienced Technicians",
-        "description": "Our team has over 15 years of combined experience. Continuous training keeps us up to date with the latest systems."
+        "description": "Our team has over 20 years of combined experience in garage door repair and installation."
       },
       {
-        "title": "Customer Satisfaction",
-        "description": "We treat your home with respect and clean up after every job. Our 4.7 rating reflects our commitment to quality."
+        "title": "Fast Response Times",
+        "description": "We prioritize your time and aim to arrive within 60 minutes of your call."
+      },
+      {
+        "title": "Fair & Transparent Pricing",
+        "description": "No surprises. We provide upfront quotes before any work begins."
+      },
+      {
+        "title": "Quality Parts & Workmanship",
+        "description": "We use only high-quality parts and offer a warranty on all repairs."
       }
     ],
     "testimonials": [
       {
-        "quote": "They fixed my garage door the same day I called. Professional, fast, and fairly priced. Highly recommend!",
-        "author": "James R.",
-        "role": "Oak Lawn homeowner"
+        "quote": "They fixed my garage door in less than an hour. Very professional and reasonably priced. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Lakewood Homeowner"
       },
       {
-        "quote": "The technician explained everything and showed me the worn parts. No pressure, just honest service. Door works perfectly now.",
-        "author": "Maria L.",
-        "role": "Lakewood resident"
+        "quote": "Called them on a Sunday for an emergency repair. They came out quickly and got my door working perfectly.",
+        "author": "Jessica L.",
+        "role": "Oak Lawn Resident"
       },
       {
-        "quote": "We needed a full new door and opener. The team helped us choose a great style and installed it flawlessly. Looks amazing!",
-        "author": "Tom K.",
-        "role": "Preston Hollow homeowner"
+        "quote": "Great communication and excellent service. They explained everything clearly and the repair was done right.",
+        "author": "David T.",
+        "role": "Uptown Business Owner"
       }
     ],
     "cta": {
-      "headline": "Ready to Fix or Upgrade Your Garage Door?",
-      "subheadline": "Call us now or schedule your free estimate online. We're here to help.",
-      "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "Call Now"
+      "headline": "Ready to Fix Your Garage Door?",
+      "subheadline": "Call us now or schedule an appointment online. We're here to help!",
+      "primaryCta": "Call (469) 632-8612",
+      "secondaryCta": "Book Online"
     }
   },
   "servicesPage": {
-    "intro": "From emergency repairs to full installations, our team delivers expert garage door services across Dallas. We combine fast response with lasting quality."
+    "intro": "Our comprehensive garage door services cover everything from minor adjustments to full replacements. We work on all major brands and models, ensuring your garage door operates safely and smoothly."
   },
   "services": [
     {
       "icon": "01",
       "title": "Garage Door Spring Repair",
-      "shortDescription": "Safe and precise torsion and extension spring replacement to restore balance and function.",
-      "longDescription": "Broken springs are one of the most common garage door issues. Our technicians safely replace torsion and extension springs with high-cycle, durable parts. We follow strict safety protocols to prevent injury and ensure smooth operation.",
+      "shortDescription": "Expert torsion and extension spring replacement for safe, smooth operation.",
+      "longDescription": "Broken springs are one of the most common garage door issues. Our technicians safely replace torsion and extension springs with high-quality, durable parts. We ensure proper tension and balance for long-lasting performance.",
       "benefits": [
-        "Restores door balance and reduces strain on opener",
-        "High-cycle springs last longer (10,000+ cycles)",
-        "Prevents further damage to cables and tracks",
-        "Same-day service available"
+        "Restores safe operation",
+        "Reduces strain on opener",
+        "Prevents further damage",
+        "20-year spring options available"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We assess spring type, tension, and condition. Identify any related issues."
+          "description": "We assess the spring system and identify the correct replacement."
         },
         {
-          "title": "Replacement",
-          "description": "Use winding bars and proper techniques to safely install new springs."
+          "title": "Installation",
+          "description": "We safely install new springs and adjust tension."
         },
         {
           "title": "Testing",
-          "description": "Test door balance, auto-reverse, and overall operation. Adjust as needed."
+          "description": "We test balance and operation to ensure everything works perfectly."
         }
       ],
       "faqs": [
         {
-          "question": "How long does spring replacement take?",
-          "answer": "Typically 30–60 minutes, depending on door type and spring accessibility."
+          "question": "How long do garage door springs last?",
+          "answer": "Typically 7-10 years depending on usage and maintenance."
         },
         {
-          "question": "Can I replace a spring myself?",
-          "answer": "We strongly advise against DIY spring repair due to high tension risk. Always hire a professional."
+          "question": "Can I replace springs myself?",
+          "answer": "We strongly advise against DIY spring repair due to high tension risks. Always hire a professional."
         }
       ],
       "slug": "garage-door-spring-repair"
     },
     {
       "icon": "02",
-      "title": "Garage Door Opener Repair & Replacement",
-      "shortDescription": "Diagnose and fix opener issues, or install a new smart opener for convenience and security.",
-      "longDescription": "Whether your opener is noisy, unresponsive, or completely dead, we can help. We repair all major brands—Chamberlain, LiftMaster, Genie—and install new models with Wi-Fi, battery backup, and quiet operation.",
+      "title": "Garage Door Opener Repair & Installation",
+      "shortDescription": "Fix or upgrade your opener for quiet, reliable performance.",
+      "longDescription": "Whether your opener is malfunctioning or outdated, we offer repair and installation services for all brands. We install modern openers with smart features, battery backup, and quiet operation.",
       "benefits": [
-        "Silent operation with belt-drive options",
-        "Smartphone control and remote access",
+        "Smooth and quiet operation",
+        "Smartphone control options",
         "Battery backup for power outages",
-        "Safety sensors and auto-reverse tested"
+        "Enhanced security features"
       ],
       "process": [
         {
           "title": "Diagnosis",
-          "description": "Test power, sensors, remote, and internal components to pinpoint the fault."
+          "description": "We test the opener and identify the issue."
         },
         {
           "title": "Repair or Replace",
-          "description": "Repair if cost-effective; otherwise recommend and install a suitable replacement."
+          "description": "We fix faulty parts or recommend a suitable replacement."
         },
         {
-          "title": "Setup & Test",
-          "description": "Program remotes, keypad, and smart features. Verify safety functions."
+          "title": "Setup",
+          "description": "We program remotes, keypads, and smart features."
         }
       ],
       "faqs": [
         {
-          "question": "How long do openers last?",
-          "answer": "Average lifespan is 10–15 years with regular maintenance."
+          "question": "What brand of opener do you recommend?",
+          "answer": "We recommend LiftMaster and Chamberlain for reliability and features."
         },
         {
-          "question": "Can I upgrade to a smart opener?",
-          "answer": "Yes, we can install a new smart opener or add a retrofit kit to many existing models."
+          "question": "How long does installation take?",
+          "answer": "Typically 1-2 hours depending on the model."
         }
       ],
-      "slug": "garage-door-opener-repair-replacement"
+      "slug": "garage-door-opener-repair-installation"
     },
     {
       "icon": "03",
-      "title": "Garage Door Cable & Roller Repair",
-      "shortDescription": "Replace frayed cables and worn rollers to ensure smooth, quiet door movement.",
-      "longDescription": "Cables and rollers endure constant wear. Frayed cables can snap, causing door imbalance and safety hazards. We replace cables with aircraft-grade material and install nylon or steel rollers for quieter, smoother operation.",
+      "title": "Garage Door Cable Repair",
+      "shortDescription": "Fix frayed or broken cables to ensure safe door movement.",
+      "longDescription": "Cables are critical for lifting your garage door. If they snap or fray, the door can become dangerous. We replace cables and inspect the entire system for wear.",
       "benefits": [
-        "Eliminates grinding and squeaking noises",
-        "Prevents cable snapping and door dropping",
-        "Extends life of springs and tracks",
-        "Improves overall door alignment"
+        "Restores safe operation",
+        "Prevents door from jamming",
+        "Extends door life",
+        "Includes safety inspection"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "Check cables for fraying, rollers for wear or damage, and track condition."
+          "description": "We check cables, drums, and tracks for damage."
         },
         {
           "title": "Replacement",
-          "description": "Remove old cables/rollers, install new parts, and adjust tension."
+          "description": "We install new high-strength cables and adjust tension."
         },
         {
-          "title": "Lubrication",
-          "description": "Apply professional-grade lubricant to rollers, hinges, and tracks for smooth operation."
+          "title": "Testing",
+          "description": "We run the door to ensure smooth and balanced movement."
         }
       ],
       "faqs": [
         {
-          "question": "How often should rollers be replaced?",
-          "answer": "Every 5–7 years for residential doors, or sooner if noisy or sticky."
+          "question": "How do I know if my cables are bad?",
+          "answer": "Look for fraying, uneven door movement, or the door not opening fully."
         },
         {
-          "question": "Can a snapped cable be repaired?",
-          "answer": "Yes, we replace the cable and inspect the entire system for safety."
+          "question": "Can I drive with a broken cable?",
+          "answer": "No, a broken cable can cause the door to fall. Call for repair immediately."
         }
       ],
-      "slug": "garage-door-cable-roller-repair"
+      "slug": "garage-door-cable-repair"
     },
     {
       "icon": "04",
-      "title": "New Garage Door Installation",
-      "shortDescription": "Expert installation of high-quality garage doors to boost curb appeal and home value.",
-      "longDescription": "Choosing the right garage door transforms your home's exterior and improves energy efficiency. We offer a wide range of styles—traditional, carriage, modern—in steel, wood, aluminum, and composite. Our certified installers ensure perfect fit and function.",
+      "title": "Garage Door Off-Track Repair",
+      "shortDescription": "Realign your door back on track quickly and safely.",
+      "longDescription": "An off-track door is a safety hazard and can damage your property. Our technicians carefully realign the door, repair any bent tracks, and ensure smooth operation.",
       "benefits": [
-        "Increases home value (up to 4% ROI)",
-        "Enhances curb appeal with custom designs",
-        "Improves insulation and energy savings",
-        "Comes with comprehensive warranty"
+        "Prevents further damage",
+        "Restores functionality",
+        "Improves safety",
+        "Extends door lifespan"
       ],
       "process": [
         {
-          "title": "Consultation",
-          "description": "Discuss your style, budget, and needs. Measure opening and review options."
+          "title": "Assessment",
+          "description": "We inspect tracks, rollers, and hinges for damage."
         },
         {
-          "title": "Installation",
-          "description": "Remove old door, install new tracks, springs, panels, and opener if needed."
+          "title": "Realignment",
+          "description": "We carefully lift the door back onto the track and adjust."
         },
         {
-          "title": "Final Walkthrough",
-          "description": "Demonstrate operation, test safety features, and answer any questions."
+          "title": "Final Check",
+          "description": "We test the door multiple times to ensure proper alignment."
         }
       ],
       "faqs": [
         {
-          "question": "How long does installation take?",
-          "answer": "Typically 4–6 hours for a standard single door, longer for double or custom doors."
+          "question": "What causes a door to come off track?",
+          "answer": "Common causes include broken cables, bent tracks, or hitting the door with a vehicle."
         },
         {
-          "question": "Do you offer warranties?",
-          "answer": "Yes, we provide manufacturer warranties on doors and a labor warranty on installation."
+          "question": "Is off-track repair covered by insurance?",
+          "answer": "Often yes, if caused by an accident. Check with your provider."
         }
       ],
-      "slug": "new-garage-door-installation"
+      "slug": "garage-door-off-track-repair"
     }
   ],
   "about": {
-    "headline": "Dallas's Trusted Garage Door Experts Since 2008",
-    "mission": "Our mission is to deliver safe, reliable, and affordable garage door solutions with unmatched customer service.",
+    "headline": "Your Trusted Garage Door Partner in Dallas",
+    "mission": "To provide Dallas homeowners and businesses with fast, reliable, and affordable garage door services while maintaining the highest standards of safety and craftsmanship.",
     "story": [
-      "A Best Garage Door Repair Dallas started with a simple belief: every homeowner deserves a garage door that works perfectly. Founded by a team of experienced technicians, we set out to provide honest, high-quality repairs and installations in the Dallas area. Over the years, we've grown from a small operation to a trusted local business, serving thousands of satisfied customers.",
-      "Our commitment to excellence means we invest in ongoing training, use top-grade parts, and stand behind our work. Whether it's a quick spring fix or a full door replacement, we treat every job with the same dedication. We're proud to be part of the Dallas community and look forward to helping you with your garage door needs."
+      "A Best Garage Door Repair Dallas started as a small family business with a simple goal: offer honest, high-quality garage door repairs at fair prices. Over the years, we have grown into a trusted name in the Dallas community, serving thousands of satisfied customers. Our team is dedicated to continuous training and using the latest tools and techniques to handle any garage door issue.",
+      "We believe in building lasting relationships with our clients through transparent communication and exceptional service. Whether it's a simple spring replacement or a full door installation, we treat every job with the same level of care and professionalism. Our commitment to excellence has earned us a reputation as one of the most reliable garage door companies in Dallas."
     ],
     "highlight": {
-      "stat": "15+",
-      "label": "Years of Service"
+      "stat": "5,000+",
+      "label": "Happy Customers Served"
     },
     "coreValues": [
       {
-        "title": "Safety First",
-        "description": "We follow strict safety protocols to protect you, your property, and our team."
-      },
-      {
         "title": "Integrity",
-        "description": "Honest assessments, transparent pricing, and no upselling. We do what's right."
+        "description": "We always provide honest advice and transparent pricing."
       },
       {
-        "title": "Quality Craftsmanship",
-        "description": "We use premium materials and proven techniques to ensure lasting results."
+        "title": "Excellence",
+        "description": "We strive for the highest quality in every repair and installation."
       },
       {
-        "title": "Customer Focus",
-        "description": "Your satisfaction drives everything we do. We listen, communicate, and deliver."
+        "title": "Reliability",
+        "description": "We show up on time and get the job done right the first time."
+      },
+      {
+        "title": "Safety",
+        "description": "We prioritize the safety of our customers and our team."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with A Best Garage Door Repair Dallas",
-    "subheadline": "Ready for service? Call or fill out our form. We'll respond promptly.",
-    "primaryCta": "Call Now",
+    "headline": "Get in Touch",
+    "subheadline": "We're ready to help with your garage door needs. Call or fill out the form below.",
+    "primaryCta": "Call (469) 632-8612",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Oak Lawn",
-      "Lakewood",
-      "Preston Hollow",
       "Highland Park",
       "University Park",
-      "Cedar Hill",
-      "DeSoto"
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Preston Hollow",
+      "North Dallas"
     ]
   },
   "social_proof": {
-    "rating": 4.7,
+    "rating": "test",
     "reviews": null
   },
   "meta": {
